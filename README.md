@@ -15,8 +15,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Schatz1337)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+Web Developer.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Schatz1337&icon=1&color=11)](https://visitcount.itsvg.in)
